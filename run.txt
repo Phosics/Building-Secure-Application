@@ -1,0 +1,2 @@
+java -jar Secure.jar itzik.keystore itzikbaruch itzikPair itzikb ellaCrt plaintext.txt e
+java -jar Secure.jar ella.keystore ellabenatia ellaPair ella13055 itzikCrt ciphertext.txt d
